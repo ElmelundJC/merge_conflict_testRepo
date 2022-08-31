@@ -1,0 +1,2 @@
+It is important to know wether or not the to files are the same.
+We only want the file with the lowercase structure.
